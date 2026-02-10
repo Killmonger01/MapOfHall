@@ -7,6 +7,7 @@
 ### Установка зависимостей
 
 ```bash
+cd restaurant-floor-map/
 npm install
 ```
 
